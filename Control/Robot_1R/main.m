@@ -1,0 +1,1 @@
+[robot_1r,importInfo_1r] = importrobot('Robot_1_R.slx') ; 
